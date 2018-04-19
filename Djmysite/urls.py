@@ -21,7 +21,7 @@ urlpatterns = [
 ]
 # from django.conf.urls import include,url
 # from django.contrib import admin
-# from myview.views import hello
+# from Djmysite.views import  hello
 # urlpatterns=[
 #      url(r'^admin/',include(admin.site,url)),
 #      url(r'^hello/$',hello),
